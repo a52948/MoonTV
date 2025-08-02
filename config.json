@@ -7,11 +7,11 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "ckzy": {
-    "api": 'https://www.ckzy1.com',
-    "name": 'CK资源',
+    "api": "https://www.ckzy1.com",
+    "name": "CK资源",
    },
     "r155": {
-    "api": 'https://155api.com',
+    "api": "https://155api.com",
     "name": '155资源',
    },
   }
